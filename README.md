@@ -6,3 +6,7 @@ In these images:
 Green pixels represent 'true positive' , 
 red pixels 'false positive', 
 white 'true negative' and blue pixels are 'false negative'.
+
+
+
+![Alt text](D12.png?raw=true "Title")
