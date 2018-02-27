@@ -1,6 +1,6 @@
 # eusipco supplementary results
 This repository contains supplementary segmentation results over three test areas including
-D12, D19 and D22 and for building landuse class.
+D12, D19 and D22 and for building landuse class using the proposed network with 152 layers in encoder(*Porp-152*).
 
 In these images:
 Green pixels represent 'true positive' , 
