@@ -1,6 +1,6 @@
 # eusipco supplementary results
-The images D12.png, D19.png and D22.png are segmentation results over three test areas including
-D12, D19 and D22 respectively and for building and background landuse class.
+This repository contains supplementary segmentation results over three test areas including
+D12, D19 and D22 and for building landuse class.
 
 In these images:
 Green pixels represent 'true positive' , 
